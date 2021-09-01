@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login Firebase</string>
+    <string name="title_active_login">Firebase Login</string>
+    <string name="password">Password</string>
+    <string name="new_password">New Password</string>
+    <string name="current_password">Current password</string>
+    <string name="name">Full name</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="repeat_password">Confirm password</string>
+    <string name="signup">Sign Up</string>
+    <string name="text_signup">Dont have an account?</string>
+    <string name="link_signup">Sign Up</string>
+    <string name="all">ALL</string>
+    <string name="user_email">userdefault@gmail.com</string>
+    <string name="user_name">User Default</string>
+    <string name="update_profile">Save</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="change_password">Change Password</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="title_check_email">Email Verification</string>
+    <string name="subtitle_check_email">To complete your registration. Please! check your mail and after clicking continue.</string>
+    <string name="continue_check_email">Continue</string>
+    <string name="title_account_recovery">Account recovery</string>
+    <string name="subtitle_account_recovery">Enter your email so that you can be sent an email with the steps to change your password.</string>
+    <string name="recovery_account">Send</string>
+    <string name="title_update_password">Password change</string>
+    <string name="subtitle_update_password">For security reasons to change your password, you must first enter your current password.</string>
+    <string name="title_delete_account">Delete account</string>
+    <string name="subtitle_delete_account">For security reasons to delete your account completely, you must enter your password..</string>
+    <string name="delete">Delete</string>
+</resources>
